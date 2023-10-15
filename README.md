@@ -1,10 +1,9 @@
+# [ei-max]([url](https://github.com/eimax9668/))
+
 - 👋 Hi, I’m @eimax9668
 - 👀 I’m interested in video editing
 - 🌱 I’m currently learning ... English
 - 💞️ I’m looking to collaborate on hitokuchi.
 - 📫 How to reach me ... https://scratch.mit.edu/users/ei-max/
 
-<!---
-eimax9668/eimax9668 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ei-max)](https://github.com/anuraghazra/github-readme-stats)
