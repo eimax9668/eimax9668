@@ -1,13 +1,9 @@
-<section style="text-align: center;">
+
   
-# 👋  Hi there
+<h1 align=center>👋Hi there</h1>
 
-
-[Blog](https://ei-max.net) ・ [Scratch](https://scratch.mit.edu/users/ei-max/)
-
-- 👀 I’m interested in video editing
-- 🌱 I’m currently learning ... English
-- 💞️ I’m looking to collaborate on hitokuchi.
-
-
-</section>
+  👋 Hi, I’m @ei-max. <br>
+    👀 I’m interested in video editing. <br>
+    ✏️ I’m currently learning ... English.<br>
+    🌐 My site is [https://ei-max.net](https://ei-max.net). <br>
+    😄favorite emoji: 🈂️
