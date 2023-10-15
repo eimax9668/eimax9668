@@ -6,4 +6,3 @@
 - 💞️ I’m looking to collaborate on hitokuchi.
 - 📫 How to reach me ... https://scratch.mit.edu/users/ei-max/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ei-max)](https://github.com/anuraghazra/github-readme-stats)
