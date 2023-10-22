@@ -20,6 +20,5 @@
 |HTML　|　★★★☆☆　|
 |CSS　|　★★★★☆　|
 |JavaScript　|　★★☆☆☆　|
-|Scratch　|　★★★★★　|
 |Python　|　★☆☆☆☆　|
 
