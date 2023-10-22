@@ -20,5 +20,3 @@
 |HTML　|　★★★☆☆　|
 |CSS　|　★★★★☆　|
 |JavaScript　|　★★☆☆☆　|
-|Python　|　★☆☆☆☆　|
-
