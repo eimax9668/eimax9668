@@ -22,9 +22,4 @@
 |JavaScript　|　★★☆☆☆　|
 |Scratch　|　★★★★★　|
 |Python　|　★☆☆☆☆　|
-|C#|　★★☆☆☆　|
 
- <h3 align=center>  
-   
- [Scratch](https://scratch.mit.edu/users/ei-max) | [Web](https://ei-max.net)
-</h3>
