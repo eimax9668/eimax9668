@@ -13,8 +13,6 @@
 😺 I always create animations and games using Scratch. <br>
 🎈 I write CSS for a site called [hitokuchi](https://hitokuchi.f5.si). <br>
  <h3 align=center>  
- 
+   
  [Scratch](https://scratch.mit.edu/users/ei-max) | [Web](https://ei-max.net)
-
 </h3>
-
