@@ -12,6 +12,18 @@
 
 😺 I always create animations and games using Scratch. <br>
 🎈 I write CSS for a site called [hitokuchi](https://hitokuchi.f5.si). <br>
+
+<h1 align=center>✅   I can do it</h1>
+
+|What can I do|Skill level|
+| ---------------- |----------------|
+|HTML　|　★★★☆☆　|
+|CSS　|　★★★★☆　|
+|JavaScript　|　★★☆☆☆　|
+|Scratch　|　★★★★★　|
+|Python　|　★☆☆☆☆　|
+|C#|　★★☆☆☆　|
+
  <h3 align=center>  
    
  [Scratch](https://scratch.mit.edu/users/ei-max) | [Web](https://ei-max.net)
