@@ -6,7 +6,7 @@
     👀 I’m interested in video editing. <br>
     ✏️ I’m currently learning ... English.<br>
     🌐 My site is [https://ei-max.net](https://ei-max.net). <br>
-    😄favorite emoji: 👍
+    😄favorite emoji: 😁
     
 <h1 align=center>🧑‍💻Work</h1>
 
